@@ -325,7 +325,8 @@ if (($tch != 'member' && $tch != 'creator' && $tch != 'administrator' or $tch2 !
 😜 ‌ ~ و کلی امکانات دیگر !
 
 هـمـیـن الان اسـتـارت کـن لـذت بـبـر 🤯👇
-https://t.me/$botuser?start=$from_id ",])->result->message_id;
+$botuser = ltrim($botuser, '@');
+https://t.me/$botuser?start=$from_id ",])->result->message_id;  
     bot('sendmessage', ['chat_id' => $chat_id, 'text' => "بنر بالا را برای دوستان و مخاطبین خود ارسال کنید و به ازای هر شخصی که با لینک شما وارد میشود « $refral امتـیـاز » دریافت کنید 🎁", 'reply_to_message_id' => $id,]);
 } elseif ($text === "راهنما  |📚|" or $text === "/help") {
     file_put_contents("usersData/$from_id/state.txt", "none");
