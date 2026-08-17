@@ -1,0 +1,26 @@
+[13-Oct-2024 17:40:44 UTC] PHP Warning:  file_get_contents(member.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 75
+[13-Oct-2024 17:40:44 UTC] PHP Warning:  file_get_contents(https://...@noori_team_810&amp;user_id=6610160952): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 81
+[13-Oct-2024 17:40:44 UTC] PHP Notice:  Trying to get property 'result' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 82
+[13-Oct-2024 17:40:44 UTC] PHP Notice:  Trying to get property 'status' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 82
+[13-Oct-2024 17:40:44 UTC] PHP Warning:  file_get_contents(member.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 117
+[13-Oct-2024 17:41:05 UTC] PHP Notice:  Undefined property: stdClass::$message in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 40
+[13-Oct-2024 17:41:05 UTC] PHP Notice:  Trying to get property 'message_id' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 41
+[13-Oct-2024 17:41:05 UTC] PHP Notice:  Trying to get property 'text' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 42
+[13-Oct-2024 17:41:05 UTC] PHP Notice:  Trying to get property 'chat' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 43
+[13-Oct-2024 17:41:05 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 43
+[13-Oct-2024 17:41:05 UTC] PHP Notice:  Trying to get property 'from' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 44
+[13-Oct-2024 17:41:05 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 44
+[13-Oct-2024 17:41:05 UTC] PHP Warning:  file_get_contents(https://...@noori_team_810&amp;user_id=): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 81
+[13-Oct-2024 17:41:05 UTC] PHP Notice:  Trying to get property 'result' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 82
+[13-Oct-2024 17:41:05 UTC] PHP Notice:  Trying to get property 'status' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 82
+[13-Oct-2024 17:42:07 UTC] PHP Notice:  Undefined property: stdClass::$text in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 42
+[13-Oct-2024 17:42:08 UTC] PHP Notice:  Undefined variable: bebe in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 250
+[13-Oct-2024 17:42:08 UTC] PHP Notice:  Trying to get property 'file_id' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 250
+[13-Oct-2024 17:42:08 UTC] PHP Notice:  Uninitialized string offset: 26 in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 34
+[13-Oct-2024 18:05:59 UTC] PHP Notice:  Undefined variable: photo_id in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 475
+[13-Oct-2024 18:05:59 UTC] PHP Warning:  file_get_contents(https://api.telegram.org/bot7319873693:AAGPOVnLYoCzj7Z4Vx18lrsiaMM9Wd-cE7Q/getChat?chat_id=): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 464
+[13-Oct-2024 18:05:59 UTC] PHP Notice:  Trying to get property 'result' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 465
+[13-Oct-2024 18:05:59 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/AcharChBot/DevOscar.php on line 465

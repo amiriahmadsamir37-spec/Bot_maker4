@@ -1,0 +1,4 @@
+TestTrexBot
+LikosAzeBot
+VELTA_MAKER_BOT
+NamoLandbot

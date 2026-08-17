@@ -1,0 +1,37 @@
+[13-Oct-2024 18:18:59 UTC] PHP Warning:  mkdir(): File exists in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 105
+[13-Oct-2024 18:18:59 UTC] PHP Notice:  Undefined property: stdClass::$last_name in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 111
+[13-Oct-2024 18:18:59 UTC] PHP Notice:  Undefined property: stdClass::$reply_to_message in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 113
+[13-Oct-2024 18:18:59 UTC] PHP Notice:  Undefined property: stdClass::$reply_to_message in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 115
+[13-Oct-2024 18:18:59 UTC] PHP Notice:  Undefined property: stdClass::$reply_to_message in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 116
+[13-Oct-2024 18:18:59 UTC] PHP Warning:  file_get_contents(data/6610160952/coin.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 117
+[13-Oct-2024 18:18:59 UTC] PHP Warning:  file_get_contents(data/6610160952/wait.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 119
+[13-Oct-2024 18:18:59 UTC] PHP Warning:  file_get_contents(data/6610160952/allcoin.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 120
+[13-Oct-2024 18:18:59 UTC] PHP Warning:  file_get_contents(data/6610160952/state.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 126
+[13-Oct-2024 18:18:59 UTC] PHP Warning:  file_get_contents(data/Member.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 127
+[13-Oct-2024 18:18:59 UTC] PHP Warning:  file_get_contents(data/6610160952/url.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 129
+[13-Oct-2024 18:18:59 UTC] PHP Warning:  file_get_contents(data/6610160952/flist.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 130
+[13-Oct-2024 18:18:59 UTC] PHP Warning:  file_get_contents(data/6610160952/addres.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 131
+[13-Oct-2024 18:18:59 UTC] PHP Warning:  file_get_contents(data/6610160952/namefile.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 132
+[13-Oct-2024 18:18:59 UTC] PHP Warning:  file_get_contents(data/6610160952/fcode.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 133
+[13-Oct-2024 18:18:59 UTC] PHP Warning:  file_get_contents(data/6610160952/fup.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 134
+[13-Oct-2024 18:18:59 UTC] PHP Warning:  file_get_contents(https://...@noori_team_810&amp;user_id=6610160952): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 135
+[13-Oct-2024 18:18:59 UTC] PHP Notice:  Trying to get property 'result' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 136
+[13-Oct-2024 18:18:59 UTC] PHP Notice:  Trying to get property 'status' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 136
+[13-Oct-2024 18:19:00 UTC] PHP Warning:  file_get_contents(https://...@noori_team_810&amp;user_id=6610160952): failed to open stream: HTTP request failed! HTTP/1.1 400 Bad Request
+ in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 137
+[13-Oct-2024 18:19:00 UTC] PHP Notice:  Trying to get property 'result' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 138
+[13-Oct-2024 18:19:00 UTC] PHP Notice:  Trying to get property 'status' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 138
+[13-Oct-2024 18:19:00 UTC] PHP Warning:  file_get_contents(data/6610160952/hadi.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 139
+[13-Oct-2024 18:19:00 UTC] PHP Warning:  file_get_contents(data/6610160952/file.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 140
+[13-Oct-2024 18:19:00 UTC] PHP Warning:  file_get_contents(Member.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 145
+[13-Oct-2024 18:19:00 UTC] PHP Warning:  file_get_contents(data/6610160952/member.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 147
+[13-Oct-2024 18:19:00 UTC] PHP Warning:  file_get_contents(data/6610160952/hadi.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 148
+[13-Oct-2024 18:19:00 UTC] PHP Warning:  file_get_contents(data/6610160952/man.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 149
+[13-Oct-2024 18:19:00 UTC] PHP Warning:  file_get_contents(data/blocklist.txt): failed to open stream: No such file or directory in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 150
+[13-Oct-2024 18:19:00 UTC] PHP Notice:  Undefined property: stdClass::$reply_to_message in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 151
+[13-Oct-2024 18:19:00 UTC] PHP Notice:  Trying to get property 'forward_from' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 151
+[13-Oct-2024 18:19:00 UTC] PHP Notice:  Trying to get property 'id' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 151
+[13-Oct-2024 18:19:00 UTC] PHP Notice:  Undefined property: stdClass::$forward_from_chat in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 152
+[13-Oct-2024 18:19:00 UTC] PHP Notice:  Trying to get property 'username' of non-object in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 152
+[13-Oct-2024 21:49:00 Asia/Tehran] PHP Warning:  time() expects exactly 0 parameters, 1 given in /home/mkpnsfom/public_html/SazRobat/Moshtary2/botsData/NamoLandbot/DevOscar.php on line 154
