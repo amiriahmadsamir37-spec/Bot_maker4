@@ -7,7 +7,7 @@ ob_start();
 define('API_KEY', getenv('BOT_TOKEN') ?: ''); //توکن قرار دهید
 $Dev = 7575502917;
 $channel = "noori_team_810";  //ایدی چنل
-$botuser = "@NOORI_BOT_SAZ2_BOT"; //یوزرنیم بات
+$botuser = "NOORI_BOT_SAZ2_BOT"; //یوزرنیم بات
 $idbot = "t.me/NOORI_BOT_SAZ2_BOT"; //ایدی ربات خود
 $publicDomain = getenv('PUBLIC_URL') ?: getenv('RAILWAY_PUBLIC_DOMAIN') ?: ($_SERVER['HTTP_HOST'] ?? '');
 $publicDomain = preg_replace('#^https?://#i', '', trim($publicDomain));
